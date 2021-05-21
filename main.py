@@ -46,9 +46,6 @@ def Data_set_2009_2010():
             '''
             Create a New Text file for Each Trace
             '''
-            #file = open(str(file_count) + '_log.txt', 'w+')
-            #file_count += 1;
-
 
             #file.write("Beta : " + str(beta/100) + "\t" + "gema : " + str(gema/ 100)+"\n")
 
